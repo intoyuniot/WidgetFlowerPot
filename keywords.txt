@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetFlowerPot   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+displaySoilHumidity  KEYWORD2
+displayIllumination  KEYWORD2
+displayAirTemp  KEYWORD2
+displayAirHumidity  KEYWORD2
+displayWaterStatus  KEYWORD2
+getWaterSwitch  KEYWORD2
+getWateringTime  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+

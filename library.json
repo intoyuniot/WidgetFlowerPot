@@ -1,0 +1,32 @@
+{
+    "name": "WidgetFlowerPot",
+    "version": "1.0.0",
+    "keywords": "Widget,FlowerPot",
+    "description": "花盆监护应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetFlowerPot.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "GY30",
+            "frameworks": "arduino"
+        },
+        {
+            "name": "IntoRobot_DHT",
+            "frameworks": "arduino"
+        },
+        {
+            "name": "YL38",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
